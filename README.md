@@ -42,7 +42,7 @@ You're looking at `README.md` right now.
 Files under `src` are where you write your code to follow along with the video.
 There are TODO comments in the code if you want to go it alone, but you should
 really check out the [Java Classes Video](https://youtu.be/8SFP9nY4HnQ) on [the Just Learn Java YouTube
-channel](https://www.youtube.com/channel/UC7DVmqqBk9kef-yHooTgP9g/). 
+channel](https://www.youtube.com/channel/UC6YU5vihI_jn2H-iRW1Xc3g). 
 
 If you get stuck, check out the `solution` directory.
 
