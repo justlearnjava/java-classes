@@ -3,9 +3,9 @@
 Welcome to Just Learn Java, where you go to learn the Java(TM) language.
 
 This repository contains the code that accompanies the [Java Classes
-video](https://youtu.be/mSH5vnrOcKg), which is part of the Just Learn the Java(TM) Language
+video](https://youtu.be/8SFP9nY4HnQ), which is part of the Just Learn the Java(TM) Language
 Video Tutorial Series, available on YouTube from
-[the Just Learn Java YouTube Channel](https://www.youtube.com/channel/UC7DVmqqBk9kef-yHooTgP9g/).
+[the Just Learn Java YouTube Channel](https://www.youtube.com/channel/UC6YU5vihI_jn2H-iRW1Xc3g).
 
 The structure of the repository is as follows:
 
